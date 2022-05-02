@@ -227,6 +227,6 @@ __pycache__
 
 /.venv/
 /venv/
-
+/migration/
 /alembic/
 alembic.ini
